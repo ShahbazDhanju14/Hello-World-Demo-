@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-demo-",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "demo.js",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahbazDhanju14/Hello-World-Demo-.git"
+  },
+  "author": "Shahbaz Dhanju, James Perrin, Erik Humphrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahbazDhanju14/Hello-World-Demo-/issues"
+  },
+  "homepage": "https://github.com/ShahbazDhanju14/Hello-World-Demo-#readme"
+}
